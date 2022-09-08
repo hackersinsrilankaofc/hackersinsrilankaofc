@@ -1,4 +1,4 @@
-*</> HACKERS IN SRI LANKA OFFICIAL </>
+## </> HACKERS IN SRI LANKA OFFICIAL </>
 
 - Programming
 - Hacking
@@ -19,4 +19,4 @@
 
 ❝ ᴏᴜᴛ ᴏꜰ ᴛʜᴇ ꜰʀᴀᴍᴇ ᴛʜɪɴᴋᴇʀꜱ \ ᴛʜᴇ ᴜɴᴅᴇʀ ᴛʜᴇ ᴄYʙᴇʀ ᴡᴏʀʟᴅ ⇨ НІЅŁ²⁰²² ❞
 
-©2019 HISL OFC.All Rights Reserved*
+©2019 HISL OFC.All Rights Reserved.
