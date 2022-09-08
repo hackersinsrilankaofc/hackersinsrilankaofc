@@ -1,8 +1,13 @@
 ## </> HACKERS IN SRI LANKA OFFICIAL </>
 
 
-> <img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg" alt="nz" width="350"/>
+> <img src="https://telegra.ph/file/3af3080786366ca8b66a3.jpg" alt="nz" width="150"/>
 </p>
+
+> <img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg" alt="nz" width="150"/>
+</p>
+
+
 
 
 - Programming
