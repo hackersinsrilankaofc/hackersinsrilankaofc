@@ -2,6 +2,8 @@
 
 - Programming
 - Hacking
+- Spamming
+- Reporting
 - Technical Support
 - 24×7 Support
 
