@@ -6,6 +6,23 @@
 
 
 
+<div>
+&nbsp;
+<div id="stats">
+<p align="center">
+  <a href="https://github.com/hackersinsrilankaofc">
+    <img src="https://komarev.com/ghpvc/?username=hackersinsrilankaofc=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
+  </a>
+  <a href="https://github.com/hackersinsrilankaofc?tab=stars">
+    <img src="https://img.shields.io/github/stars/hackersinsrilankaofc?color=ff69b4&label=Stars&style=plastic">
+
+  </a>
+  <a href="https://github.com/hackersinsrilankaofc?tab=followers">
+    <img src="https://img.shields.io/github/followers/hackersinsrilankaofc?color=ff69b4&label=Followers&style=plastic">
+
+  </a>
+</p>
 
 
 
