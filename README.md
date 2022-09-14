@@ -11,7 +11,7 @@
 <div id="stats">
 <p align="center">
   <a href="https://github.com/hackersinsrilankaofc">
-    <img src="https://komarev.com/ghpvc/?username=hackersinsrilankaofc=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+    <img src="https://komarev.com/ghpvc/?username=Hackers In Sri Lanka=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
   <a href="https://github.com/hackersinsrilankaofc?tab=stars">
