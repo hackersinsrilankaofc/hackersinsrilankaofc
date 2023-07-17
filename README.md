@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="center" fit="fill" alt="mp4" src="https://i.imgur.com/jR4TjOy.mp4" />
+<img align="center" fit="fill" alt="VIDEO" src="https://i.imgur.com/jR4TjOy.mp4" />
 
 
 
