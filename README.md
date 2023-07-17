@@ -9,7 +9,7 @@
 
 
 ----
-<img align="center" fit="fill" alt="GIF" src="https://i.imgur.com/jR4TjOy.mp4" />
+<img align="center" fit="fill" alt="MP4" src="https://i.imgur.com/jR4TjOy.mp4" />
 
 
 <details>
