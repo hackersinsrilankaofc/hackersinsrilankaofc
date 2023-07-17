@@ -1,7 +1,7 @@
 ## </> HACKERS IN SRI LANKA OFFICIAL </>
-https://telegra.ph/file/611fcbc5979c81afbf61f.jpg
 
-<mp4 video="[https://telegra.ph/file/611fcbc5979c81afbf61f.jpg](https://github.com/hackersinsrilankaofc/NOTE-LAB/blob/main/Image/lv_0_20230717134653.mp4)" alt="nz" width="300"/>
+
+<mp4 video="[https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]([https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]))" alt="nz" width="300"/>
 </p>
 
 
