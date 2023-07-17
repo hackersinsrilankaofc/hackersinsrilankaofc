@@ -3,7 +3,6 @@
 
 <img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg" alt="nz" width="300"/> </p>
 
-<img src="https://i.imgur.com/jR4TjOy.mp4" alt="nz" width="300"/> </p>
 
 
 
