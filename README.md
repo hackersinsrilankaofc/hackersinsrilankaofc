@@ -1,8 +1,7 @@
 ## </> HACKERS IN SRI LANKA OFFICIAL </>
 
 
-
-<img align="center" fit="fill" alt="image" src="[https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]" />
+<img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg" alt="nz" width="300"/> </p>
 
 
 
