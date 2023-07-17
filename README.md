@@ -1,11 +1,8 @@
 ## </> HACKERS IN SRI LANKA OFFICIAL </>
 
 
-<mp4 video="[https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]([https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]))" alt="nz" width="300"/>
-</p>
 
-
-<img align="center" fit="fill" alt="VIDEO" src="https://i.imgur.com/jR4TjOy.mp4" />
+<img align="center" fit="fill" alt="image" src="[https://telegra.ph/file/611fcbc5979c81afbf61f.jpg]" />
 
 
 
